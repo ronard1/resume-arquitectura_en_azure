@@ -1,0 +1,1 @@
+# resume-arquitectura_en_azure
